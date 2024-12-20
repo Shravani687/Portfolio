@@ -1,0 +1,43 @@
+
+
+#navbar
+{
+    background-color: rgb(251, 255, 0);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+a
+{
+    padding: 20px;
+    text-decoration: none;
+    color: whiteI;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.certi
+{
+    padding: 0px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+}
+
+img{
+    width: 380px;
+    height: 300px;
+    display: flex;
+}
+h3{
+    text-align: center;
+}
